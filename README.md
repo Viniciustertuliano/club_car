@@ -27,6 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site é um Landing page para entendimento das tecnologias basicas usadas no desenvolvimento Front-end.
 
+#### https://viniciustertuliano.github.io/club_car/
+
+| Preview |
+| ------- |
+|<img alt="page" title="#page" src=".github/page.png"/>|
+
 ---
 
 Feito com ♥ by Vinicius Tertuliano
